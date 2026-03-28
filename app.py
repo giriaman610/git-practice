@@ -1,1 +1,1 @@
-print("This is working practicing git")
+print("This is for practicing git")
